@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+Pillow
+stegano
+torch
+torchvision
+scikit-learn
+tqdm
+matplotlib
+numpy
+Flask
+Flask-Cors
+requests

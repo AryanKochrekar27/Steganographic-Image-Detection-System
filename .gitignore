@@ -1,0 +1,29 @@
+# Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Large datasets & raw image folders (>7 GB total)
+BOSSbase_pgm/
+BOSSbase_png/
+data/
+dataset/
+stego_images/
+
+# Debug and temporary logs
+*.log
+import_error.txt
+error.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
